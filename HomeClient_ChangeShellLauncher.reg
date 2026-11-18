@@ -1,6 +1,4 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
-"Shell"=REG_SZ:"C:\Windows\System32\conhost.exe"
-
-
+"Shell"="C:\\Windows\\System32\\conhost.exe"
